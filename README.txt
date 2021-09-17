@@ -1,0 +1,17 @@
+"""
+Created on Sun Sep 12 14:35:14 2021
+@author: HawaiiDive
+@author: Marcus
+This code will take a link from Youtube, download the video at the highest
+resolution possible to the folder where this script is located, then it will
+attempt to extract the text from the video into a transcript text file.
+"""
+
+pip install pytube
+pip install SpeechRecognition
+pip install moviepy --user
+pip install wave
+pip install contextlib
+pip install pd
+pip install time
+pip install os
