@@ -12,6 +12,3 @@ pip install SpeechRecognition
 pip install moviepy --user
 pip install wave
 pip install contextlib
-pip install pd
-pip install time
-pip install os
