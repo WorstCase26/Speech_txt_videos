@@ -115,9 +115,9 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Contact
 
-Project Link: 
+Project Link: https://github.com/m17cobb/Speech_txt_videos/
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
-* [https://github.com/HawaiiDive]
+* [https://github.com/HawaiiDive] ('Provided support with the pytube section')
