@@ -115,7 +115,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Contact
 
-Project Link: https://github.com/m17cobb/Speech_txt_videos/
+Project Link: https://github.com/m17cobb/Speech_txt_videos
 
 <!-- ACKNOWLEDGEMENTS -->
 
