@@ -32,7 +32,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -63,10 +62,12 @@ To get a local copy up and running follow these simple steps.
 
 These are the only Python packages in the requirements for this application to run.
 
-pdfminer.six
-python-pptx
-python-docx
-pandas
+
+pytube
+SpeechRecognition
+moviepy
+wave
+contextlib
 
 ### Installation
 
@@ -79,10 +80,11 @@ pandas
 2. Install packages with windows
 
    ```sh
-    pip install pdfminer.six
-    pip install python-pptx
-    pip install python-docx
-    pip install pandas
+    pip install pytube
+    pip install SpeechRecognition
+    pip install moviepy
+    pip install wave
+    pip install contextlib
    ```
 
 <!-- USAGE EXAMPLES -->
