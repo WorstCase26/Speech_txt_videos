@@ -197,7 +197,7 @@ def main_youtube_s2t(links):
 
 
 if __name__ == "__main__":
-   link = ["https://youtu.be/TBuIGBCF9jc"]
+   link = [str(input("Enter a youtube link:"))]
    out_df = main_youtube_s2t(link)
         
    # Printing the computational times for the calculations above based on your system
@@ -218,4 +218,3 @@ if __name__ == "__main__":
    print(f"-Processor: {my_system.processor}")
    print()
    
-   #C:\\Users\\Marcus\\OneDrive\\Desktop\\Similarity\\Video_to_text\\Youtube_Downloads\\Admiral_McRaven_Leaves_the_Audience_SPEECHLESS__One_of_the_Best_Motivational_Speeches.mp4"
