@@ -1,6 +1,6 @@
 # Video downloader and Speech to Text conversion tool
 <!--
-*** Thanks for checking out the ResumeTool. If you have a suggestion
+*** Thanks for checking out the Speech to Text conversion tool. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 ***
@@ -48,7 +48,7 @@ This script will download a video from YouTube using the PyTube package. It will
 ### Built With
 
 * Spyder IDE (https://www.spyder-ide.org/)
-
+* Python 3.8
 
 
 <!-- GETTING STARTED -->
